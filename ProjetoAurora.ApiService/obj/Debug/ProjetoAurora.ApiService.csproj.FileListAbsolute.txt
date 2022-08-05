@@ -1,0 +1,90 @@
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\csc.exe
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\csc.exe.config
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\csc.rsp
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\csi.exe
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\csi.rsp
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\System.AppContext.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\vbc.exe
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\vbc.exe.config
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\vbc.rsp
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\VBCSCompiler.exe
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\ProjetoAurora.ApiService.dll.config
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\ProjetoAurora.ApiService.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\ProjetoAurora.ApiService.pdb
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\AuroraDomain.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\Newtonsoft.Json.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\System.Net.Http.Formatting.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\System.Web.Http.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\System.Web.Http.WebHost.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\AuroraDomain.pdb
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\Newtonsoft.Json.xml
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\System.Net.Http.Formatting.xml
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\System.Web.Http.xml
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\System.Web.Http.WebHost.xml
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\obj\Debug\ProjetoAurora.ApiService.csprojResolveAssemblyReference.cache
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\obj\Debug\ProjetoAurora.ApiService.csproj.CoreCompileInputs.cache
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\obj\Debug\ProjetoAurora.ApiService.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.ApiService\obj\Debug\ProjetoAurora.ApiService.pdb
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\csc.exe
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\csc.exe.config
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\csc.rsp
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\csi.exe
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\csi.rsp
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\System.AppContext.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\vbc.exe
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\vbc.exe.config
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\vbc.rsp
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\VBCSCompiler.exe
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\ProjetoAurora.ApiService.dll.config
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\ProjetoAurora.ApiService.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\ProjetoAurora.ApiService.pdb
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\AuroraDomain.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\Newtonsoft.Json.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\System.Net.Http.Formatting.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\System.Web.Http.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\System.Web.Http.WebHost.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\AuroraDomain.pdb
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\Newtonsoft.Json.xml
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\System.Net.Http.Formatting.xml
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\System.Web.Http.xml
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\bin\System.Web.Http.WebHost.xml
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\obj\Debug\ProjetoAurora.ApiService.csprojResolveAssemblyReference.cache
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\obj\Debug\ProjetoAurora.ApiService.csproj.CoreCompileInputs.cache
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\obj\Debug\ProjetoAurora.ApiService.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.ApiService\obj\Debug\ProjetoAurora.ApiService.pdb

@@ -1,0 +1,6 @@
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\AuroraDomain\bin\Debug\AuroraDomain.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\AuroraDomain\bin\Debug\AuroraDomain.pdb
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\AuroraDomain\obj\Debug\Aurora.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\AuroraDomain\obj\Debug\Aurora.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\AuroraDomain\obj\Debug\AuroraDomain.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\AuroraDomain\obj\Debug\AuroraDomain.pdb

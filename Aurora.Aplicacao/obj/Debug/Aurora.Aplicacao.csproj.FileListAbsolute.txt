@@ -1,0 +1,5 @@
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\Aurora.Aplicacao\bin\Debug\Aurora.Aplicacao.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\Aurora.Aplicacao\bin\Debug\Aurora.Aplicacao.pdb
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\Aurora.Aplicacao\obj\Debug\Aurora.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\Aurora.Aplicacao\obj\Debug\Aurora.Aplicacao.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\Aurora.Aplicacao\obj\Debug\Aurora.Aplicacao.pdb

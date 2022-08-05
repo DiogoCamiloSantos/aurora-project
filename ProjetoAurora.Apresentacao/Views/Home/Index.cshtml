@@ -1,0 +1,56 @@
+﻿@model ProjetoAurora.Apresentacao.ViewModels.HomeViewModel
+@{
+    ViewBag.Title = "Projeto Aurora";
+}
+
+<style>
+    .espacamento {
+        margin-bottom: 10px;
+    }
+</style>
+
+<div class="col-md-12" style="margin-top: 10px;">
+    <div class="col-md-6" style="margin-right: -10px;">
+        <h3>Informe o valor de cada dado:</h3>
+        @using (@Html.BeginForm("CalcularPontuacao", "Home", FormMethod.Post))
+        {
+            <div class="col-md-12">
+                Dado 1: @Html.TextBoxFor(m => m.Rolamento.Dado1, new { @class = "form-control espacamento", @type = "number", @min = "1", @max = "6" })
+            </div>
+            <div class="col-md-12">
+                Dado 2:  @Html.TextBoxFor(m => m.Rolamento.Dado2, new { @class = "form-control espacamento", @type = "number", @min = "1", @max = "6" })
+            </div>
+            <div class="col-md-12">
+                Dado 3:  @Html.TextBoxFor(m => m.Rolamento.Dado3, new { @class = "form-control espacamento", @type = "number", @min = "1", @max = "6" })
+            </div>
+            <div class="col-md-12">
+                Dado 4:  @Html.TextBoxFor(m => m.Rolamento.Dado4, new { @class = "form-control espacamento", @type = "number", @min = "1", @max = "6" })
+            </div>
+            <div class="col-md-12">
+                Dado 5:  @Html.TextBoxFor(m => m.Rolamento.Dado5, new { @class = "form-control espacamento", @type = "number", @min = "1", @max = "6" })
+            </div>
+            <div class="col-md-12">
+                <input class="button btn-default form-control" id="submit" type="submit" value="Calcular Pontuação" />
+            </div>
+        }
+    </div>
+    <div class="col-md-6">
+        <h3 class="espacamento">Resultado:</h3>
+
+        @if (Model.CategoriaPontuada != null)
+        {
+            int countRanking = 1;
+
+            foreach (var item in Model.CategoriaPontuada.OrderByDescending(x => x.Pontos))
+            {
+                <div class="col-md-12">
+                    <h4>@(@countRanking + "º - Categoria " + @item.NomeCategoria.ToString() + " fez " + @item.Pontos + " ponto(s).")</h4>
+                </div>
+                countRanking++;
+            }
+        }
+    </div>
+</div>
+
+<div class="row">
+</div>

@@ -1,0 +1,205 @@
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\ApplicationInsights.config
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\csc.exe
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\csc.exe.config
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\csc.rsp
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\csi.exe
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\csi.rsp
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\System.AppContext.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\vbc.exe
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\vbc.exe.config
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\vbc.rsp
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\VBCSCompiler.exe
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\ProjetoAurora.Apresentacao.dll.config
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\ProjetoAurora.Apresentacao.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\ProjetoAurora.Apresentacao.pdb
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Antlr3.Runtime.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.Web.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Newtonsoft.Json.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.Helpers.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.Mvc.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.Optimization.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.Razor.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.WebPages.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.WebPages.Razor.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\WebGrease.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.Helpers.xml
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.Mvc.xml
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.Optimization.xml
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.Razor.xml
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.WebPages.xml
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.WebPages.Razor.xml
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Antlr3.Runtime.pdb
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Newtonsoft.Json.xml
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.Web.xml
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\obj\Debug\ProjetoAurora.Apresentacao.csprojResolveAssemblyReference.cache
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\obj\Debug\ProjetoAurora.Apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\obj\Debug\ProjetoAurora.Apresentacao.dll
+C:\Users\Silvana Santana\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\obj\Debug\ProjetoAurora.Apresentacao.pdb
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\ApplicationInsights.config
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\csc.exe
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\csc.exe.config
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\csc.rsp
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\csi.exe
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\csi.rsp
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\System.AppContext.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\vbc.exe
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\vbc.exe.config
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\vbc.rsp
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\VBCSCompiler.exe
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\ProjetoAurora.Apresentacao.dll.config
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\ProjetoAurora.Apresentacao.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\ProjetoAurora.Apresentacao.pdb
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Antlr3.Runtime.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.Web.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.ApplicationInsights.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Newtonsoft.Json.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.Helpers.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.Mvc.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.Optimization.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.Razor.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.WebPages.Deployment.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.WebPages.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.WebPages.Razor.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\WebGrease.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.Helpers.xml
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.Mvc.xml
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.Optimization.xml
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.Razor.xml
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.WebPages.xml
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.WebPages.Deployment.xml
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.WebPages.Razor.xml
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Antlr3.Runtime.pdb
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Newtonsoft.Json.xml
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.ApplicationInsights.xml
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.Web.xml
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\obj\Debug\ProjetoAurora.Apresentacao.csprojResolveAssemblyReference.cache
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\obj\Debug\ProjetoAurora.Apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\obj\Debug\ProjetoAurora.Apresentacao.dll
+C:\Users\diogo\source\repos\ProjetoAurora\ProjetoAurora.Apresentacao\obj\Debug\ProjetoAurora.Apresentacao.pdb
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\ApplicationInsights.config
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\csc.exe
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\csc.exe.config
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\csc.rsp
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\csi.exe
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\csi.rsp
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\System.AppContext.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\vbc.exe
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\vbc.exe.config
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\vbc.rsp
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\VBCSCompiler.exe
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\ProjetoAurora.Apresentacao.dll.config
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\ProjetoAurora.Apresentacao.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\ProjetoAurora.Apresentacao.pdb
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Antlr3.Runtime.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.Web.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.ApplicationInsights.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Newtonsoft.Json.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.Helpers.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.Mvc.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.Optimization.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.Razor.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.WebPages.Deployment.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.WebPages.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.WebPages.Razor.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\WebGrease.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.Helpers.xml
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.Mvc.xml
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.Optimization.xml
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.Razor.xml
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.WebPages.xml
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.WebPages.Deployment.xml
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\System.Web.WebPages.Razor.xml
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Antlr3.Runtime.pdb
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Newtonsoft.Json.xml
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.ApplicationInsights.xml
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\bin\Microsoft.AI.Web.xml
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\obj\Debug\ProjetoAurora.Apresentacao.csproj.AssemblyReference.cache
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\obj\Debug\ProjetoAurora.Apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\obj\Debug\ProjetoAurora.Apresentacao.csproj.CopyComplete
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\obj\Debug\ProjetoAurora.Apresentacao.dll
+C:\Users\diogo.santos\Documents\ProjetoAurora\ProjetoAurora.Apresentacao\obj\Debug\ProjetoAurora.Apresentacao.pdb
