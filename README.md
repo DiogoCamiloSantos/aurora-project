@@ -12,33 +12,48 @@ pontuação
 * Caso seja selecionada uma categoria na qual o rolamento não se enquadre na
 condição, o total de pontos atribuídos será 0.
 * As categorias de pontuação são:
-o Uns[Haver pelo menos 1 dado com valor "um" no rolamento]: Pontue a soma
+
+ - Uns[Haver pelo menos 1 dado com valor "um" no rolamento]: Pontue a soma
 de todos os dados de valor "um"
-o Dois[Haver pelo menos 1 dado com valor "dois" no rolamento]: Pontue a soma
+
+ - Dois[Haver pelo menos 1 dado com valor "dois" no rolamento]: Pontue a soma
 de todos os dados de valor "dois"
-o Três[Haver pelo menos 1 dado com valor "três" no rolamento]: Pontue a soma
+
+ - Três[Haver pelo menos 1 dado com valor "três" no rolamento]: Pontue a soma
 de todos os dados de valor "três"
-o Quatros[Haver pelo menos 1 dado com valor "quatro" no rolamento]: Pontue a
+ 
+ - Quatros[Haver pelo menos 1 dado com valor "quatro" no rolamento]: Pontue a
 soma de todos os dados de valor "quatro"
-o Cincos[Haver pelo menos 1 dado com valor "cinco" no rolamento]: Pontue a
+
+ - Cincos[Haver pelo menos 1 dado com valor "cinco" no rolamento]: Pontue a
 soma de todos os dados de valor "cinco"
-o Seis[Haver pelo menos 1 dado com valor "seis" no rolamento]: Pontue a soma
+
+- Seis[Haver pelo menos 1 dado com valor "seis" no rolamento]: Pontue a soma
 de todos os dados de valor "seis"
-o Par[Haver pelo menos 2 dados de mesmo valor no rolamento]: Pontue a soma
+
+- Par[Haver pelo menos 2 dados de mesmo valor no rolamento]: Pontue a soma
 dos dois dados de mesmo valor
-o Dois Pares[Haver pelo menos 2 pares de dados distintos no rolamento]: Pontue
+
+- Dois Pares[Haver pelo menos 2 pares de dados distintos no rolamento]: Pontue
 a soma dos quatro dados que integram os pares
-o Trio[Haver pelo menos 3 dados de mesmo valor no rolamento]: Pontue a soma
+
+- Trio[Haver pelo menos 3 dados de mesmo valor no rolamento]: Pontue a soma
 dos três dados de mesmo valor
-o Quadra[Haver pelo menos 4 dados de mesmo valor no rolamento]: Pontue a
+
+- Quadra[Haver pelo menos 4 dados de mesmo valor no rolamento]: Pontue a
 soma dos quatro dados de mesmo valor
-o Sequencia Menor[Haver pelo menos 4 dados em ordem numérica no
+
+- Sequencia Menor[Haver pelo menos 4 dados em ordem numérica no
 rolamento]: Pontue 15 pontos
-o Sequencia Maior[Haver os 5 dados em ordem numérica no rolamento]: Pontue
+
+- Sequencia Maior[Haver os 5 dados em ordem numérica no rolamento]: Pontue
 20 pontos
-o Full House[Haver 1 par e 1 trio no rolamento]: Pontue a soma de todos os 5
+
+- Full House[Haver 1 par e 1 trio no rolamento]: Pontue a soma de todos os 5
 dados
-o Aurora[Haver 5 dados de mesmo valor no rolamento]: Pontue 50 pontos
+
+- Aurora[Haver 5 dados de mesmo valor no rolamento]: Pontue 50 pontos
+
 * Alguns exemplos de pontuação:
 o Um rolamento 2-2-3-3-3 pode pontuar: 4 pontos na categoria “Dois”, 9 pontos
 na categoria “Três”, 4 pontos na categoria “Par”, 9 pontos na categoria “Trio”
