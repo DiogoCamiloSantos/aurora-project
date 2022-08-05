@@ -1,6 +1,6 @@
-# aurora-project
+# Aurora 
 
-## O jogo
+## Sobre o jogo
  Aurora é um jogo de dados jogado com a seguinte regra:
 * 5 dados são rolados pelo jogador
 * Os dados são comparados contra 15 categorias de pontuação
@@ -11,7 +11,9 @@ o Nome da Categoria[Condição para utilizar a categoria]:Regra para calcular a
 pontuação
 * Caso seja selecionada uma categoria na qual o rolamento não se enquadre na
 condição, o total de pontos atribuídos será 0.
-* As categorias de pontuação são:
+ 
+ 
+ As categorias de pontuação são:
 
  - Uns[Haver pelo menos 1 dado com valor "um" no rolamento]: Pontue a soma
 de todos os dados de valor "um"
